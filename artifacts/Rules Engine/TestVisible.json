@@ -1,0 +1,12 @@
+{
+	"id": "c206792f-4702-ef11-b3b0-e8c829417d3b",
+	"createdAt": "2024-04-24T14:30:24.453Z",
+	"createdBy": "svein.gunnar.larsen@neptune-software.com",
+	"interface": [],
+	"rules": [],
+	"name": "TestVisible",
+	"description": "",
+	"ver": "24.04.24.1630",
+	"package": "da424c3b-23f7-ee11-b3a7-e8c829417d38",
+	"roles": []
+}

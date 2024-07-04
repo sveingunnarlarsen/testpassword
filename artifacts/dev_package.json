@@ -1,0 +1,70 @@
+{
+	"id": "da424c3b-23f7-ee11-b3a7-e8c829417d38",
+	"createdAt": "2024-04-10T10:15:19.580Z",
+	"createdBy": "admin",
+	"git": {
+		"remote": "https://github.com/sveingunnarlarsen/testpassword.git"
+	},
+	"name": "Development",
+	"description": null,
+	"ver": "24.07.04.1153",
+	"enableCICD": true,
+	"apps": [],
+	"api": [],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [
+		{
+			"id": "c206792f-4702-ef11-b3b0-e8c829417d3b",
+			"name": "TestVisible",
+			"description": ""
+		}
+	],
+	"reports": [],
+	"api_authentication": [
+		{
+			"id": "22f8c4ee-8208-ef11-b3b0-e8c829417d3b",
+			"name": "TEst",
+			"description": null
+		}
+	],
+	"api_group": [],
+	"tile": [],
+	"category": [],
+	"launchpad": [],
+	"certificates": [],
+	"role": [
+		{
+			"id": "b2421541-4702-ef11-b3b0-e8c829417d3b",
+			"name": "Testing",
+			"description": null
+		},
+		{
+			"id": "90223752-23f7-ee11-b3a7-e8c829417d38",
+			"name": "Admin",
+			"description": null
+		}
+	],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [
+		{
+			"id": "3875632f-da18-ef11-b3b3-e8c829417d3b",
+			"name": "kjhkhjkjhkjhjkhjkjjkhkjhkjh",
+			"description": null
+		}
+	],
+	"wf_definition": [],
+	"connector": [],
+	"events": [],
+	"code_snippets": [],
+	"wf_determination": [],
+	"wf_taskaction": []
+}

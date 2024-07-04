@@ -1,0 +1,26 @@
+{
+	"id": "22f8c4ee-8208-ef11-b3b0-e8c829417d3b",
+	"createdAt": "2024-05-02T12:53:19.900Z",
+	"createdBy": "svein.gunnar.larsen@neptune-software.com",
+	"headers": [],
+	"details": {
+		"subject": {},
+		"headers": [],
+		"username": "name",
+		"password": "0d37f517c6dccc68ab",
+		"secret": ""
+	},
+	"azureRelayDetails": {
+		"ns": "",
+		"hcName": "",
+		"apName": "",
+		"apKey": ""
+	},
+	"name": "TEst",
+	"description": null,
+	"type": "basic",
+	"useCloudConnector": false,
+	"cloudConnectorType": null,
+	"ver": "24.05.02.1454",
+	"package": "da424c3b-23f7-ee11-b3a7-e8c829417d38"
+}
